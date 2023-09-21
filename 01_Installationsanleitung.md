@@ -10,6 +10,7 @@ Bei Problemen kann hier nach einer Lösung geschaut werden: [03_Fehlerbehebung](
 <!--Start VSCode-->
 <details>
 <summary>VSCode</summary>
+<br />
 🛑 Ist VSCode bereits installiert (wie es z.B. auf den Rechnern der HsH ist), so kann der Download von VSCode übersprungen und die Erweiterung, wie folgend beschrieben, installiert werden.<br />
 <br />
 Die neueste Version von VSCode kann hier runtergeladen und installiert werden: [https://code.visualstudio.com](https://code.visualstudio.com).<br />
@@ -20,6 +21,7 @@ Nach der Installation ist VSCode zu öffnen. Es erscheint die folgende Benutzero
 <!--Start Erweiterung HSH_AddOn4VSC-->
 <details>
 <summary>Erweiterung HSH_AddOn4VSC</summary>
+<br />
 Auf der linken Seite kann auf den Marktplatz zugegriffen werden (s. nachfolgendes Bild).<br />
 <img width="426" alt="Screenshot 2023-09-21 at 15 25 10" src="https://github.com/hshf1/VSCode/assets/100713757/45216f6b-136a-4485-8178-749eef98535f"><br />
 <br />
@@ -28,7 +30,7 @@ Dort können Erweiterungen für VSCode installiert werden. Mit der Suche nach <b
 <br />
 Mit einem Klick auf Installieren wird die Erweiterung heruntergeladen und installiert. Sobald die Installation abgeschlossen ist, führt VSCode die Erweiterung sofort aus. Ab da werden alle weiteren benötigten Erweiterungen und zusetzende Einstellungen von der Erweiterung automatisch ausgeführt. Dies kann bei der ersten Installation etwas dauern und es kann je nach System ein externes Terminal (CMD) öffnen, wo noch benötigte Ressourcen installiert werden.<br />
 <br />
-ℹ️ Bei der Installation werden (außer an den Rechnern der HsH) Admin-Rechte benötigt.
+ℹ️ Bei der Installation werden (außer an den Rechnern der HsH) Admin-Rechte benötigt.<br />
 <br />
 Hat die installierte Erweiterung die Initialisierung abgeschlossen, so wird ein Ordner auf dem Rechner unter <b>Dokumente</b> und in diesem Ordner eine erste Datei erstellt (je nach ausgewählter Programmiersprache ändert sich der Ordner und die Datei, dazu mehr in [<b>Erste_Schritte</b>](https://github.com/hshf1/VSCode/blob/main/02_Erste_Schritte.md)). Dieser Ordner wird auch direkt in VSCode geöffnet. Außerdem sollte auf der linken Seite ein Logo mit der Aufschrift HsH erscheinen (s. nachfolgendes Bild).<br />
 <img width="426" alt="Screenshot 2023-09-21 at 15 28 55" src="https://github.com/hshf1/VSCode/assets/100713757/cbd1aff0-d555-41a9-a35a-72f83f697122"><br />
