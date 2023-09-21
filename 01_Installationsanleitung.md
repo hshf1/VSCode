@@ -41,11 +41,12 @@ Hat die installierte Erweiterung die Initialisierung abgeschlossen, so wird ein 
 <!--Ende Erweiterung HSH_AddOn4VSC-->
 <!--Ende Download und Installation-->
 <!--Start Weiterführende Links-->
+
 ## Weiterführende Links
 
-[Erste Schritte](https://github.com/hshf1/VSCode/blob/main/02_Erste_Schritte.md)
-[Fehlerbehebung](https://github.com/hshf1/VSCode/blob/main/03_Fehlerbehebung.md)
-[Source-Code der Erweiterung HSH_AddOn4VSC](https://github.com/hshf1/HSH_AddOn4VSC)
-[Vorlesung-C Git-Repository](https://github.com/hshf1/VorlesungC)
+[Erste Schritte](https://github.com/hshf1/VSCode/blob/main/02_Erste_Schritte.md)<br />
+[Fehlerbehebung](https://github.com/hshf1/VSCode/blob/main/03_Fehlerbehebung.md)<br />
+[Source-Code der Erweiterung HSH_AddOn4VSC](https://github.com/hshf1/HSH_AddOn4VSC)<br />
+[Vorlesung-C Git-Repository](https://github.com/hshf1/VorlesungC)<br />
 <!--Ende Weiterführende Links-->
 <!--Ende Anleitung-->
