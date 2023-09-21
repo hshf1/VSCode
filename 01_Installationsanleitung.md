@@ -7,12 +7,14 @@ Bei Problemen kann hier nach einer Lösung geschaut werden: [03_Fehlerbehebung](
 
 <!--Start Download und Installation-->
 ## <p align="center">Download und Installation</p>
+### VSCode
 :warning: Ist VSCode bereits installiert (wie es z.B. auf den Rechnern der HsH ist), so kann der Download von VSCode übersprungen und die Erweiterung, wie folgend beschrieben, installiert werden.<br />
 
 Die neueste Version von VSCode kann hier runtergeladen und installiert werden: [https://code.visualstudio.com](https://code.visualstudio.com).<br />
 
 Nach der Installation ist VSCode zu öffnen. Es erscheint die folgende Benutzeroberfläche (Stand: 21.09.2023):<br />
 
+### Erweiterung HSH_AddOn4VSC
 Auf der linken Seite kann auf den Marktplatz zugegriffen werden (s. nachfolgendes Bild).<br />
 <img width="426" alt="Screenshot 2023-09-21 at 15 25 10" src="https://github.com/hshf1/VSCode/assets/100713757/45216f6b-136a-4485-8178-749eef98535f"><br />
 
