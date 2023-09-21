@@ -1,21 +1,11 @@
-<!--Liste von nutzbaren Emojis im Markdown: https://github.com/ikatyang/emoji-cheat-sheet#symbols -->
-
-<!--Start Buttons (im oberen Bereich der Seite)-->
-<a href="https://github.com/hshf1/VorlesungC/discussions"><img src="https://img.shields.io/badge/Allgemein-Q%26A-informational?logo=github" height="25"/></a>
-<a href="https://github.com/hshf1/VorlesungC/discussions/categories/01_vscode"><img src="https://img.shields.io/badge/VSCode-Q%26A-informational?logo=visualstudiocode" height="25"/></a>
-<a href="https://github.com/hshf1/VorlesungC/discussions/5"><img src="https://img.shields.io/badge/Anleitung_bewerten-red?logo=visualstudiocode" height="25"/></a>
-<!--Ende Buttons-->
 <!--Start Anleitung-->
 # VSCode Installationsanleitung
 
-Dies ist eine Anleitung (von Studenten für Studenten) zur Installation von VSCode für die Vorlesung C.<br />
+Dies ist eine Anleitung (von Studenten für Studenten) zur Installation von VSCode.<br />
 
-Sollten Probleme auftreten, könnt ihr die in dieser Anleitung erklärte Fehleranalyse ausführen. Dort werden einige mögliche Fehler ausfindig gemacht und ein Fehlercode ausgegeben. Hier kann dann nach einer Lösung geschaut werden: [03_Fehlerbehebung](https://github.com/hshf1/VorlesungC/blob/main/VSCode/03_Fehlerbehebung.md). <br />
-
-Ist das Problem dort nicht geschildert oder dennoch nicht behoben, so ist ein Screenshot mit der Fehlermeldung / dem Fehler und der LogFile als Anhang an die lehrende Person zu mailen.<br />
+Bei Problemen kann hier dann einer Lösung geschaut werden: [03_Fehlerbehebung](https://github.com/hshf1/VorlesungC/blob/main/VSCode/03_Fehlerbehebung.md).<br />
 
 <!--Start MacOS-Anleitung-->
-
 ## <p align="center">MacOS</p>
 
 <details>
@@ -313,60 +303,6 @@ Von hier aus können wir unseren Ordner dann auswählen und debuggen können.
 Hiermit wäre die Installation auch schon fertig und VSCode ist nun im Computerraum nutzbar.
 
 </details>
-
-<!--Alte CR-Anleitung wird auskommentiert
-<details>
-  <summary>Hier klicken, um VSCode auf im Computerraum der Hochschule zu nutzen.</summary>
-<br />
-<b>Anmerkung: Um im Computerraum richtig debuggen zu können, muss Schritt 2 befolgt werden. Andernfalls erhält man eine Fehlermeldung beim Ausführen des Debuggers.</b>
-
-### Schritt 1
-<br />
-<a href="https://github.com/hshf1/VorlesungC/files/8937057/installVSCodeCR.zip"><img src="https://img.shields.io/badge/Download-v1.04_20.06.2022-success?logo=windows" height="50" /></a>
-<br /><br />
-  
-Die Datei im ZIP-Ordner entpacken wir, z.B. in Downloads oder Desktop.
-![Screenshot (18)](https://user-images.githubusercontent.com/100713757/166149097-c7db2762-97ca-4e0d-8d5a-8b200b9b0154.png)
-  
-Mit einem linken Doppelklick starten wir einfach das Programm. Es kann die Meldung auftauchen, dass Windows den Computer schützt. Das kommt standardmäßig bei allen Batch-Dateien vor, die aus dem Internet runtergeladen werden. In diesem Fall klickt ihr auf weitere Informationen und anschließend auf den erscheinenden Button <b>Trotzdem ausführen</b>.
-![Screenshot (20)_LI](https://user-images.githubusercontent.com/100713757/166149294-92720791-6f03-44db-af79-039775eeab98.jpg)
-![Screenshot (21)_LI](https://user-images.githubusercontent.com/100713757/166149327-3bf6a5d3-277c-4748-bc6d-35f3116d4f44.jpg)
-
-Nun läuft die Installation von alleine und meldet euch, wenn es fertig ist.
-![Screenshot (22)](https://user-images.githubusercontent.com/100713757/166149376-7700c166-11da-442f-a8ab-68e2da784fe9.png)
-
-Bei der Meldung klicken wir auf <b>OK</b>, dass Terminal schließt nun automatisch und es erscheint ein Logfile, welches sich auf eurem Desktop befindet.
-![Screenshot (23)](https://user-images.githubusercontent.com/100713757/166149506-b4171410-2132-45ac-af4d-1284638c1e3d.png)
-  
-Ist kein Fehler aufgetreten könnt ihr die Logfile auch wieder löschen. Sollten Probleme oder Fehler auftauchen, stehen diese da drin.
-Zur Problembehandlung könnt ihr im Logfile sehen, was nicht geklappt hat. Solltet ihr das Problem nicht beheben können, schickt bitte die Logfile mit als Anhang.
-  
-### Schritt 2
-Um im Computerraum debuggen zu können, ist es erforderlich, den Ordner direkt über den Netzlaufwerkverzeichnis zu öffnen.
-Nach dem Start von VSCode klicken wir auf Open Folder.
-  
-![Screenshot (1)](https://user-images.githubusercontent.com/100713757/168243894-209938d6-c5b7-44e6-afa0-bb3072cfe8f6.png)
-
-Dann gehen wir auf Dieser PC.
-  
-![Screenshot (2)](https://user-images.githubusercontent.com/100713757/168244010-46a3c191-c587-4af2-a8ac-e7da979685f2.png)
-
-Und dort klicken wir auf den Netzlaufwerk mit dem Namen der eigenen Benutzerkennung.
-  
-![Screenshot (3)](https://user-images.githubusercontent.com/100713757/168244174-d539e84b-cf00-4eda-b1eb-8e517865720d.png)
-
-Nun gehen wir noch auf Systemordner.
-  
-![Screenshot (4)](https://user-images.githubusercontent.com/100713757/168244323-6e0ecd94-6db6-4493-8fbc-8c06571460b2.png)
-  
-![Screenshot (6)](https://user-images.githubusercontent.com/100713757/168244473-e47306cd-3c71-4a78-a36d-3ad6ede3cdee.png)
-  
-Von hier aus können wir unseren Ordner dann auswählen und debuggen können.
-  
-Hiermit wäre die Installation auch schon fertig und VSCode ist nun im Computerraum nutzbar.
-</details>
-Alte CR-Anleitung Ende Auskommentierung-->
-
 <!--Ende Computerraum-Anleitung-->
 
 <!--Ende Anleitung-->
