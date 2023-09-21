@@ -32,7 +32,7 @@ Dort können Erweiterungen für VSCode installiert werden. Mit der Suche nach <b
 <br />
 Mit einem Klick auf Installieren wird die Erweiterung heruntergeladen und installiert. Sobald die Installation abgeschlossen ist, führt VSCode die Erweiterung sofort aus. Ab da werden alle weiteren benötigten Erweiterungen und zusetzende Einstellungen von der Erweiterung automatisch ausgeführt. Dies kann bei der ersten Installation etwas dauern und es kann je nach System ein externes Terminal (CMD) öffnen, wo noch benötigte Ressourcen installiert werden.<br />
 <br />
-ℹ️ Bei der Installation werden (außer an den Rechnern der HsH) Admin-Rechte benötigt.<br />
+ℹ️ Die Erweiterung kann Installationen ausführen, die Admin-Rechte benötigt (außer an den Rechnern der HsH).<br />
 <br />
 Hat die installierte Erweiterung die Initialisierung abgeschlossen, so wird ein Ordner auf dem Rechner unter <b>Dokumente</b> und in diesem Ordner eine erste Datei erstellt (je nach ausgewählter Programmiersprache ändert sich der Ordner und / oder die Datei, dazu mehr unter 
   
