@@ -6,7 +6,7 @@ Dies ist eine Anleitung (von Studenten für Studenten) zur Installation von <b>V
 Bei Problemen kann hier nach einer Lösung geschaut werden: [03_Fehlerbehebung](https://github.com/hshf1/VorlesungC/blob/main/VSCode/03_Fehlerbehebung.md).<br />
 
 <!--Start Download und Installation-->
-## <p align="center">Download und Installation</p>
+## <align="center">Download und Installation</align>
 ### VSCode
 :warning: Ist VSCode bereits installiert (wie es z.B. auf den Rechnern der HsH ist), so kann der Download von VSCode übersprungen und die Erweiterung, wie folgend beschrieben, installiert werden.<br />
 
