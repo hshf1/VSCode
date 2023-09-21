@@ -1,9 +1,18 @@
 <!--Start Anleitung-->
 # VSCode Installationsanleitung
 
-Dies ist eine Anleitung (von Studenten für Studenten) zur Installation von VSCode.<br />
+Dies ist eine Anleitung (von Studenten für Studenten) zur Installation von <b>VSCode</b> und der hilfreichen Erweiterung <b>HSH_AddOn4VSC</b>.<br />
 
 Bei Problemen kann hier dann einer Lösung geschaut werden: [03_Fehlerbehebung](https://github.com/hshf1/VorlesungC/blob/main/VSCode/03_Fehlerbehebung.md).<br />
+
+### <p align="center">Download und Installation</p>
+Die neueste Version von VSCode kann hier runtergeladen und installiert werden: [https://code.visualstudio.com](https://code.visualstudio.com).<br />
+
+Nach der Installation ist VSCode zu öffnen. Es erscheint die folgende Benutzeroberfläche (Stand: 21.09.2023):
+
+Auf der linken Seite kann auf den Marktplatz zugegriffen werden. Dort können Erweiterungen für VSCode installiert werden. Mit der Suche nach <b>HSH_AddOn4VSC</b> taucht die folgende Erweiterung auf (Stand: 21.09.2023):
+
+Mit einem Klick auf Installieren wird die Erweiterung heruntergeladen und installiert. Sobald die Installation abgeschlossen ist, führt VSCode die Erweiterung sofort aus. Ab da werden alle weiteren benötigten Erweiterungen und zusetzende Einstellungen von der Erweiterung automatisch ausgeführt.
 
 <!--Start MacOS-Anleitung-->
 ## <p align="center">MacOS</p>
