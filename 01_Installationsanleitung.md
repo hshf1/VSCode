@@ -11,7 +11,7 @@ Bei Problemen kann hier nach einer Lösung geschaut werden: [03_Fehlerbehebung](
 <details>
 <summary>VSCode</summary>
 🛑 Ist VSCode bereits installiert (wie es z.B. auf den Rechnern der HsH ist), so kann der Download von VSCode übersprungen und die Erweiterung, wie folgend beschrieben, installiert werden.<br />
-
+<br />
 Die neueste Version von VSCode kann hier runtergeladen und installiert werden: [https://code.visualstudio.com](https://code.visualstudio.com).<br />
 
 Nach der Installation ist VSCode zu öffnen. Es erscheint die folgende Benutzeroberfläche (Stand: 21.09.2023):<br />
