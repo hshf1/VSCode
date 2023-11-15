@@ -522,19 +522,21 @@ Dieser Abschnitt setzt voraus, dass ihr das HSH_AddOn4VSC bereits installiert ha
 <summary> Schnellstart HSH_AddOn4VSC</summary>
 Wenn das HSH_Addon4VSC erfolgreich installiert wurde, dann findet ihr in der Activity Bar das HsH-Icon. Das sieht in etwa so aus:
 
-(img 01_hsh_addon_icon.png)
+![01_hsh_addon_icon](https://github.com/hshf1/VSCode/assets/125041387/0e600dc2-371a-4bef-835a-9971f34ba85e)
+
 
 Im Explorer sollte sich nun automatisch das Verzeichnis C_Uebung geöffnet haben.
 
-(img 02_uebungs_verzeichnes.png)
+![02_uebungs_verzeichnes](https://github.com/hshf1/VSCode/assets/125041387/8500b1e2-a9f7-4e8d-b38b-a5f4187b9a6a)
 
 Damit das HsH-AddOn am besten funktioniert, kann dieses Verzeichnis zur Ablage der Übungsaufgaben gemäß der entsprechenden Vorlesung genutzt werden. Hierzu klickt ihr mit der rechten Maustaste in das Fenster des Explorers und im Kontextmenü dann auf den Punkt: `<New Folder...>`. Anschließend vergebt ihr einen neuen Namen für den Ordner, der entsprechend der gewünschten Organisation der aktuellen Übungsaufgaben entspricht. Abschließend wird die Übungsaufgabe in den neu erstellten Ordner verschoben. Dabei ist zu beachten, dass jede Übungsaufgabe in einem eigenen Ordner abgelegt werden sollte, um die bestmögliche Funktionalität der Erweiterung gewährleisten. Nachfolgend findet ihr eine beispielhafte Ordner- bzw Organisatinsstruktur:
 
-(img 03_uebungs_vereichnis.png)
+![03_uebungs_vereichnis](https://github.com/hshf1/VSCode/assets/125041387/a3e4f71e-a8c4-427f-b9a4-7aab382f59f8)
+
 
 Jetzt beschäftigen wir uns kurz mit den Funktionalitäten des Addons. Hierfür klickt ihr einmal auf das HsH-Icon in der Acitivity Bar. Darauf hin solltet ihr im Explorer folgende Menüpunkte finden:
 
-(img 04_addon_settings.png)
+![04_addon_settings](https://github.com/hshf1/VSCode/assets/125041387/e4d5f1a3-c618-46f8-8bd2-41cc13160040)
 
 `<GitHub: VSCode (HsH-Repository)>`: Ein Klick auf den Button öffnet das GitHub-Repository in dem man die Installationsanleitung, die ersten Schritte und Fehlerbehebungen findet.
 
