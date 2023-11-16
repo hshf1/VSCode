@@ -94,7 +94,7 @@ Jetzt beschäftigen wir uns kurz mit den Funktionalitäten des Addons. Hierfür 
 
 `<Compiler>`: Ein Klick auf den Button öffnet die Einstellungen für Compiler. Derzeit unterstützt das HsH-Addon die Programmiersprachen C, Java und Python.
 
-(05_compiler_settings)
+![05_compiler_settings](https://github.com/hshf1/VSCode/assets/125041387/227fca23-57c7-4f01-8ec9-8857c1312f2d)
 
 Mit einem Klick auf `<C-Compiler prüfen / installieren>`, `<Java-Compiler prüfen / installieren>` oder `<Python-Compiler prüfen / installieren>` überprüft ihr eure aktuelle Compiler-Konfiguration, wenn keine gefunden wird, dann wird ein Compiler für die ausgewählte Programmiersprache automatisch installiert, so dass ihr gleich los legen könnt.
 
@@ -102,7 +102,7 @@ Ihr könnt die entsprechenden Compiler mit einem Klick auf `< ... deinstallieren
 
 `<Einstellungen>`: Häufig sind gängige Probleme, wie zum Beispiel ein nicht funktionierender Debugger auf die Konfiguration von settings.json beziehungsweise tasks.json zurück zu führen. Daher findet sich unter "Einstellungen" auch eine Reihe von Optionen, die eine Konfiguration der beiden json-Dateien erleichtert.
 
-(06_einstellungen)
+![06_einstellungen](https://github.com/hshf1/VSCode/assets/125041387/47327c59-a0f0-4038-b82f-547d940ec8c3)
 
 Die settings.json bzw. tasks.json kann mit einem Klick auf `<... überprüfen>` auf fehlende Konfigurationen überprüft werden. Sobald die Überprüfung abgeschlossen und die Anpassungen ergänzt wurden gibt das Addon eine Erfolgsmeldung aus.
 
