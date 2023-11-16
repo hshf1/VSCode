@@ -70,6 +70,57 @@ printf("Die Zahl lautet %d.\n", x);
   
 </details>
 
+## HSH_AddOn4VSC
+
+Dieser Abschnitt setzt voraus, dass ihr das HSH_AddOn4VSC bereits installiert habt. Ist dies nicht der Fall, dann findet Ihr die Installationsanleitung hier: [01_Installationsanleitung.md](https://github.com/hshf1/VSCode/blob/main/01_Installationsanleitung.md).
+
+<details>
+<summary> Schnellstart HSH_AddOn4VSC</summary>
+Wenn das HSH_Addon4VSC erfolgreich installiert wurde, dann findet ihr in der Activity Bar das HsH-Icon. Das sieht in etwa so aus:
+
+![image](https://github.com/hshf1/VSCode/assets/125041387/0e600dc2-371a-4bef-835a-9971f34ba85e)
+
+Jetzt beschäftigen wir uns kurz mit den Funktionalitäten des Addons. Hierfür klickt ihr einmal auf das HsH-Icon in der Acitivity Bar. Darauf hin solltet ihr im Explorer folgende Menüpunkte finden:
+
+![image](https://github.com/hshf1/VSCode/assets/125041387/e4d5f1a3-c618-46f8-8bd2-41cc13160040)
+
+`<GitHub: VSCode (HsH-Repository)>`: Ein Klick auf den Button öffnet das GitHub-Repository in dem man die Installationsanleitung, die ersten Schritte und Fehlerbehebungen findet.
+
+`<GitHub: Vorlesung C (HsH-Repository)>`: Ein Klick auf den Button öffnet das GitHub-Repository der Vorlesung in C-Programmierung, in dem ihr nützliche Informationen zur Vorlesung findet.
+
+`<Programmiersprache ändern>`: Ein Klick auf den Button ermöglicht das Wechseln der Programmiersprache. Momentan könnt das Addon für die Programmiersprachen C, Java und Linux verwenden. Vorsicht: beim Wechseln der Sprache wird ein entsprechendes Verzeichnis für gewählte Sprache geöffnet. Ihr legt eure Übungsaufgaben also nach gewählter Programmiersprache ab.
+
+`<Verzeichnis wechseln>`: ToDo
+
+`<Compiler>`: Ein Klick auf den Button öffnet die Einstellungen für Compiler. Derzeit unterstützt das HsH-Addon die Programmiersprachen C, Java und Python.
+
+(05_compiler_settings)
+
+Mit einem Klick auf `<C-Compiler prüfen / installieren>`, `<Java-Compiler prüfen / installieren>` oder `<Python-Compiler prüfen / installieren>` überprüft ihr eure aktuelle Compiler-Konfiguration, wenn keine gefunden wird, dann wird ein Compiler für die ausgewählte Programmiersprache automatisch installiert, so dass ihr gleich los legen könnt.
+
+Ihr könnt die entsprechenden Compiler mit einem Klick auf `< ... deinstallieren>` könnt ihr euren Compiler für die gewünschte Sprache auch deinstallieren. Das bietet sich z.B. an, wenn der Compiler neu installiert werden soll.
+
+`<Einstellungen>`: Häufig sind gängige Probleme, wie zum Beispiel ein nicht funktionierender Debugger auf die Konfiguration von settings.json beziehungsweise tasks.json zurück zu führen. Daher findet sich unter "Einstellungen" auch eine Reihe von Optionen, die eine Konfiguration der beiden json-Dateien erleichtert.
+
+(06_einstellungen)
+
+Die settings.json bzw. tasks.json kann mit einem Klick auf `<... überprüfen>` auf fehlende Konfigurationen überprüft werden. Sobald die Überprüfung abgeschlossen und die Anpassungen ergänzt wurden gibt das Addon eine Erfolgsmeldung aus.
+
+Ihr könnt auch eure aktuelle settings.json bzw. tasks.json zurück setzen in dem ihr auf `< .... zurücksetzen>` klickt. Dies überschreibt die aktuelle Konfiguration mit einer gängigen Konfiguration. Diese Option bietet sich an, wenn die aktuelle Konfiguration zu umfangreich ist, sodass gewisse Einstellungen zu Komplikationen führen können.
+
+Mit einem Klick auf `<aktuelle settings.json öffnen>` bzw. `<aktuelle tasks.json öffnen` könnt ihr die gewünschte json-Datei öffnen um auch eigene Konfigurationen händisch vornehmen zu können.
+
+Wenn ihr aus Gründen zu einem älteren Stand der settings.json zurück kehren wollt oder sucht dort nur nach einer bestimmten Einstellung, dann kann die alte settings.json mit einem Klick auf `<alte  settings.json öffnen>` aufgerufen werden.
+
+`<Problem melden>`: Ein Klick auf den Button öffnet das Dialogformular, mit dem ihr auftretende Fehler bzw Schwierigkeiten an die Autoren des AddOns melden könnt. Das genaue Vorgehen Anhand einer Beispielmeldung könnt ihr weiter unten nachlesen.
+
+<details>
+<summary>Ein Problem mit dem Addon an die Entwickler melden</summary>
+ToDo
+</details>
+
+</details>
+
 ## Live Share
   
 Live Share ist eine optionale Erweiterung für euch. Ihr könnt damit zusammen mit anderen Studenten, die VSCode und diese Erweiterung installiert haben, zusammen programmieren. Eine Begrenzung der Anzahl gleichzeitiger Teilnehmer ist nicht bekannt und ihr könnt euch so gegenseitig auch bei schwierigen Aufgaben helfen und die Aufgabe aufteilen bzw. jeder seinen eigenen Losungsweg präsentieren. Auch wird euch euer Prof. damit bei der Vorlesung einladen, ihn beim coden direkt über VSCode mitzuverfolgen bzw. ihr könnt Vorschläge und Programmieransätze so direkt mit dem Prof. teilen.
@@ -513,43 +564,3 @@ Jetzt sollte das Programm erfolgreich durchlaufen worden sein und wir sehen im u
 
 <img width="283" alt="image" src="https://user-images.githubusercontent.com/78163337/112049524-09068980-8b50-11eb-94c8-79f7167ca78e.png">
 --->
-
-## HSH_AddOn4VSC
-
-Dieser Abschnitt setzt voraus, dass ihr das HSH_AddOn4VSC bereits installiert habt. Ist dies nicht der Fall, dann findet Ihr die Installationsanleitung hier: [01_Installationsanleitung.md](https://github.com/hshf1/VSCode/blob/main/01_Installationsanleitung.md).
-
-<details>
-<summary> Schnellstart HSH_AddOn4VSC</summary>
-Wenn das HSH_Addon4VSC erfolgreich installiert wurde, dann findet ihr in der Activity Bar das HsH-Icon. Das sieht in etwa so aus:
-
-![01_hsh_addon_icon](https://github.com/hshf1/VSCode/assets/125041387/0e600dc2-371a-4bef-835a-9971f34ba85e)
-
-
-Im Explorer sollte sich nun automatisch das Verzeichnis C_Uebung geöffnet haben.
-
-![02_uebungs_verzeichnes](https://github.com/hshf1/VSCode/assets/125041387/8500b1e2-a9f7-4e8d-b38b-a5f4187b9a6a)
-
-Damit das HsH-AddOn am besten funktioniert, kann dieses Verzeichnis zur Ablage der Übungsaufgaben gemäß der entsprechenden Vorlesung genutzt werden. Hierzu klickt ihr mit der rechten Maustaste in das Fenster des Explorers und im Kontextmenü dann auf den Punkt: `<New Folder...>`. Anschließend vergebt ihr einen neuen Namen für den Ordner, der entsprechend der gewünschten Organisation der aktuellen Übungsaufgaben entspricht. Abschließend wird die Übungsaufgabe in den neu erstellten Ordner verschoben. Dabei ist zu beachten, dass jede Übungsaufgabe in einem eigenen Ordner abgelegt werden sollte, um die bestmögliche Funktionalität der Erweiterung gewährleisten. Nachfolgend findet ihr eine beispielhafte Ordner- bzw Organisatinsstruktur:
-
-![03_uebungs_vereichnis](https://github.com/hshf1/VSCode/assets/125041387/a3e4f71e-a8c4-427f-b9a4-7aab382f59f8)
-
-
-Jetzt beschäftigen wir uns kurz mit den Funktionalitäten des Addons. Hierfür klickt ihr einmal auf das HsH-Icon in der Acitivity Bar. Darauf hin solltet ihr im Explorer folgende Menüpunkte finden:
-
-![04_addon_settings](https://github.com/hshf1/VSCode/assets/125041387/e4d5f1a3-c618-46f8-8bd2-41cc13160040)
-
-`<GitHub: VSCode (HsH-Repository)>`: Ein Klick auf den Button öffnet das GitHub-Repository in dem man die Installationsanleitung, die ersten Schritte und Fehlerbehebungen findet.
-
-`<GitHub: Vorlesung C (HsH-Repository)>`: Ein Klick auf den Button öffnet das GitHub-Repository der Vorlesung in C-Programmierung, in dem ihr nützliche Informationen zur Vorlesung findet.
-
-`<Programmiersprache ändern>`: Ein Klick auf den Button ermöglicht das Wechseln der Programmiersprache. Momentan könnt das Addon für die Programmiersprachen C, Java und Linux verwenden. Vorsicht: beim Wechseln der Sprache wird ein entsprechendes Verzeichnis für gewählte Sprache geöffnet. Ihr legt eure Übungsaufgaben also nach gewählter Programmiersprache ab.
-
-`<Verzeichnis wechseln>`: ToDo
-
-`<Compiler>`: ToDo
-
-`<Einstellungen>`: ToDo
-
-`<Problem melden>`: Ein Klick auf den Button öffnet das Dialogformular, mit dem ihr auftretende Fehler bzw Schwierigkeiten an die Autoren des AddOns melden könnt. Das genaue Vorgehen Anhand einer Beispielmeldung könnt ihr weiter unten nachlesen.
-
-</details>
