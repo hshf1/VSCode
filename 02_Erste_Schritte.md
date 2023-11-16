@@ -110,7 +110,7 @@ Ihr könnt auch eure aktuelle settings.json bzw. tasks.json zurück setzen in de
 
 Mit einem Klick auf `<aktuelle settings.json öffnen>` bzw. `<aktuelle tasks.json öffnen` könnt ihr die gewünschte json-Datei öffnen um auch eigene Konfigurationen händisch vornehmen zu können.
 
-Wenn ihr aus Gründen zu einem älteren Stand der settings.json zurück kehren wollt oder sucht dort nur nach einer bestimmten Einstellung, dann kann die alte settings.json mit einem Klick auf `<alte  settings.json öffnen>` aufgerufen werden.
+Wenn ihr aus Gründen zu einem älteren Stand der settings.json zurück kehren wollt oder sucht dort nur nach einer bestimmten Einstellung, dann kann die alte settings.json mit einem Klick auf `<alte settings.json öffnen>` aufgerufen werden.
 
 `<Problem melden>`: Ein Klick auf den Button öffnet das Dialogformular, mit dem ihr auftretende Fehler bzw Schwierigkeiten an die Autoren des AddOns melden könnt. Das genaue Vorgehen Anhand einer Beispielmeldung könnt ihr weiter unten nachlesen.
 
