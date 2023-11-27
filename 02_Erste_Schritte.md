@@ -115,8 +115,32 @@ Wenn ihr aus Gründen zu einem älteren Stand der settings.json zurück kehren w
 `<Problem melden>`: Ein Klick auf den Button öffnet das Dialogformular, mit dem ihr auftretende Fehler bzw Schwierigkeiten an die Autoren des AddOns melden könnt. Das genaue Vorgehen Anhand einer Beispielmeldung könnt ihr weiter unten nachlesen.
 
 <details>
-<summary>Ein Problem mit dem Addon an die Entwickler melden</summary>
-ToDo
+<summary>Ein Problem mit dem Addon melden</summary>
+Der nachfolgende Abschnitt behandelt das Formular mit dem ihr ein auftrendes Problem des HsH-Addons melden könnt. Um das Formular zu öffnen, klickt einfach das das HsH-Logo in eurer Activity Bar und wählt dann den letzten Punkt `<Problem melden>` aus.  Als erstes werdet ihr aufgefordert eure Hochschul-Mailadresse einzugeben, hierzu vervollständigt ihr einfach eure Adresse in dem vorgegebenen Feld.
+
+(01_report_formular.png)
+
+Nach dem Abschicken des Problems erhaltet ihr eine Kopie der Meldung an eure E-Mail-Adresse. Sie ist außerdem hilfreich, um euch bei eventuellen Rückfragen oder individuellen Lösungesansätzen bezüglich eures Problems zu kontaktieren.
+
+Habt ihr die Eingabe eurer E-Mail-Adresse mit einem Druck auf die Enter-Taste bestätigt, werdet ihr im zweiten Schritt dazu aufgefordert, euer Problem zu erläutern.
+
+(02_report_formular.png)
+
+Hier beschreibt ihr kurz den Zusammenhang eures Problems. Wenn ihr fertig seid, drückt ihr erneut auf "Enter". Im dritten Schritt könnt der Anfertigung eines Screenshots zustimmen, oder ablehnen.
+
+(03_report_problem.png)
+
+Hierfür klickt ihr entweder auf "Ja" oder "Nein". Bei einem Klick auf "Ja" wird automatisch ein Screenshot von eurem aktuellen Bildschirm angefertigt, sodass ein späteres Nachvollziehen des aufgetretenden Problems leichter nachvollziehbar wird.
+
+Im vierten Schritt werdet ihr gefragt ob ihre eure momentan geöffnete Datei an die Problemmeldung anhängen möchtet. Eine Kopie der Datei, die im Zusammenhang mit eurem Problem hängt, kann eine Lösung des Problems deutlicher spezifizieren. Möchtet ihr die Datei anhängen, dann bestätgit es mit einem Klick auf "Ja" oder lehnt mit "Nein" ab.
+
+(04_report_formular.png)
+
+Euere Meldung sollte nun vorbereitet sein, so dass ihr zum Schluss noch gefragt werdet, ob sie absenden wollt. "Klickt hier auf "Ja" um euer Problem zu melden oder auf "Nein" um den Vorgang abzubrechen
+
+(05_report_formular.png)
+
+Ihr könnt auch in jedem Schritt des Formulars den Vorgang abbrechen, in dem ihr auf die "ESC"-Taste drückt.
 </details>
 
 </details>
