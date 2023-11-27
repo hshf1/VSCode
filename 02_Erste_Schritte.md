@@ -118,27 +118,27 @@ Wenn ihr aus Gründen zu einem älteren Stand der settings.json zurück kehren w
 <summary>Ein Problem mit dem Addon melden</summary>
 Der nachfolgende Abschnitt behandelt das Formular mit dem ihr ein auftrendes Problem des HsH-Addons melden könnt. Um das Formular zu öffnen, klickt einfach das das HsH-Logo in eurer Activity Bar und wählt dann den letzten Punkt `<Problem melden>` aus.  Als erstes werdet ihr aufgefordert eure Hochschul-Mailadresse einzugeben, hierzu vervollständigt ihr einfach eure Adresse in dem vorgegebenen Feld.
 
-(01_report_formular.png)
+![01_report_formular](https://github.com/hshf1/VSCode/assets/125041387/313b28d1-5bfa-4c8a-bcc6-cfe9d846abd4)
 
 Nach dem Abschicken des Problems erhaltet ihr eine Kopie der Meldung an eure E-Mail-Adresse. Sie ist außerdem hilfreich, um euch bei eventuellen Rückfragen oder individuellen Lösungesansätzen bezüglich eures Problems zu kontaktieren.
 
 Habt ihr die Eingabe eurer E-Mail-Adresse mit einem Druck auf die Enter-Taste bestätigt, werdet ihr im zweiten Schritt dazu aufgefordert, euer Problem zu erläutern.
 
-(02_report_formular.png)
+![02_report_formular](https://github.com/hshf1/VSCode/assets/125041387/8fa7d5e7-702b-43c0-b590-c76b4b70ee15)
 
 Hier beschreibt ihr kurz den Zusammenhang eures Problems. Wenn ihr fertig seid, drückt ihr erneut auf "Enter". Im dritten Schritt könnt der Anfertigung eines Screenshots zustimmen, oder ablehnen.
 
-(03_report_problem.png)
+![03_report_problem](https://github.com/hshf1/VSCode/assets/125041387/f57b01f5-c8b1-46a2-8304-2b434ecdee41)
 
 Hierfür klickt ihr entweder auf "Ja" oder "Nein". Bei einem Klick auf "Ja" wird automatisch ein Screenshot von eurem aktuellen Bildschirm angefertigt, sodass ein späteres Nachvollziehen des aufgetretenden Problems leichter nachvollziehbar wird.
 
 Im vierten Schritt werdet ihr gefragt ob ihre eure momentan geöffnete Datei an die Problemmeldung anhängen möchtet. Eine Kopie der Datei, die im Zusammenhang mit eurem Problem hängt, kann eine Lösung des Problems deutlicher spezifizieren. Möchtet ihr die Datei anhängen, dann bestätgit es mit einem Klick auf "Ja" oder lehnt mit "Nein" ab.
 
-(04_report_formular.png)
+![04_report_formular](https://github.com/hshf1/VSCode/assets/125041387/9fbc9a4b-2c3a-41ba-9cbc-2d79e4d20a2b)
 
 Euere Meldung sollte nun vorbereitet sein, so dass ihr zum Schluss noch gefragt werdet, ob sie absenden wollt. "Klickt hier auf "Ja" um euer Problem zu melden oder auf "Nein" um den Vorgang abzubrechen
 
-(05_report_formular.png)
+![05_report_formular](https://github.com/hshf1/VSCode/assets/125041387/479e131e-e30a-4532-aab5-d05904139cee)
 
 Ihr könnt auch in jedem Schritt des Formulars den Vorgang abbrechen, in dem ihr auf die "ESC"-Taste drückt.
 </details>
