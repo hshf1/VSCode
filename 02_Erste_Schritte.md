@@ -90,7 +90,7 @@ Jetzt beschäftigen wir uns kurz mit den Funktionalitäten des Addons. Hierfür 
 
 `<Programmiersprache ändern>`: Ein Klick auf den Button ermöglicht das Wechseln der Programmiersprache. Momentan könnt das Addon für die Programmiersprachen C, Java und Linux verwenden. Vorsicht: beim Wechseln der Sprache wird ein entsprechendes Verzeichnis für gewählte Sprache geöffnet. Ihr legt eure Übungsaufgaben also nach gewählter Programmiersprache ab.
 
-`<Verzeichnis wechseln>`: ToDo
+`<In Verzeichnis der geöffneten Datei wechseln>`: Diese Option bietet sich an, wenn ihr gerade nur eine Datei geöffnet habt, z.B. main.c. Mit einem Klick auf diesen Button öffnet ihr das Verzeichnis, in dem eure Datei liegt als Projekt-Ordner in VS Code.
 
 `<Compiler>`: Ein Klick auf den Button öffnet die Einstellungen für Compiler. Derzeit unterstützt das HsH-Addon die Programmiersprachen C, Java und Python.
 
