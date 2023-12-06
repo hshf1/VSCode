@@ -70,6 +70,81 @@ printf("Die Zahl lautet %d.\n", x);
   
 </details>
 
+## HSH_AddOn4VSC
+
+Dieser Abschnitt setzt voraus, dass ihr das HSH_AddOn4VSC bereits installiert habt. Ist dies nicht der Fall, dann findet Ihr die Installationsanleitung hier: [01_Installationsanleitung.md](https://github.com/hshf1/VSCode/blob/main/01_Installationsanleitung.md).
+
+<details>
+<summary> Schnellstart HSH_AddOn4VSC</summary>
+Wenn das HSH_Addon4VSC erfolgreich installiert wurde, dann findet ihr in der Activity Bar das HsH-Icon. Das sieht in etwa so aus:
+
+![image](https://github.com/hshf1/VSCode/assets/125041387/0e600dc2-371a-4bef-835a-9971f34ba85e)
+
+Jetzt beschäftigen wir uns kurz mit den Funktionalitäten des Addons. Hierfür klickt ihr einmal auf das HsH-Icon in der Acitivity Bar. Darauf hin solltet ihr im Explorer folgende Menüpunkte finden:
+
+![image](https://github.com/hshf1/VSCode/assets/125041387/e4d5f1a3-c618-46f8-8bd2-41cc13160040)
+
+`<GitHub: VSCode (HsH-Repository)>`: Ein Klick auf den Button öffnet das GitHub-Repository in dem man die Installationsanleitung, die ersten Schritte und Fehlerbehebungen findet.
+
+`<GitHub: Vorlesung C (HsH-Repository)>`: Ein Klick auf den Button öffnet das GitHub-Repository der Vorlesung in C-Programmierung, in dem ihr nützliche Informationen zur Vorlesung findet.
+
+`<Programmiersprache ändern>`: Ein Klick auf den Button ermöglicht das Wechseln der Programmiersprache. Momentan könnt das Addon für die Programmiersprachen C, Java und Linux verwenden. Vorsicht: beim Wechseln der Sprache wird ein entsprechendes Verzeichnis für gewählte Sprache geöffnet. Ihr legt eure Übungsaufgaben also nach gewählter Programmiersprache ab.
+
+`<In Verzeichnis der geöffneten Datei wechseln>`: Diese Option bietet sich an, wenn ihr gerade nur eine Datei geöffnet habt, z.B. main.c. Mit einem Klick auf diesen Button öffnet ihr das Verzeichnis, in dem eure Datei liegt als Projekt-Ordner in VS Code.
+
+`<Compiler>`: Ein Klick auf den Button öffnet die Einstellungen für Compiler. Derzeit unterstützt das HsH-Addon die Programmiersprachen C, Java und Python.
+
+![05_compiler_settings](https://github.com/hshf1/VSCode/assets/125041387/227fca23-57c7-4f01-8ec9-8857c1312f2d)
+
+Mit einem Klick auf `<C-Compiler prüfen / installieren>`, `<Java-Compiler prüfen / installieren>` oder `<Python-Compiler prüfen / installieren>` überprüft ihr eure aktuelle Compiler-Konfiguration, wenn keine gefunden wird, dann wird ein Compiler für die ausgewählte Programmiersprache automatisch installiert, so dass ihr gleich los legen könnt.
+
+Ihr könnt die entsprechenden Compiler mit einem Klick auf `< ... deinstallieren>` könnt ihr euren Compiler für die gewünschte Sprache auch deinstallieren. Das bietet sich z.B. an, wenn der Compiler neu installiert werden soll.
+
+`<Einstellungen>`: Häufig sind gängige Probleme, wie zum Beispiel ein nicht funktionierender Debugger auf die Konfiguration von settings.json beziehungsweise tasks.json zurück zu führen. Daher findet sich unter "Einstellungen" auch eine Reihe von Optionen, die eine Konfiguration der beiden json-Dateien erleichtert.
+
+![06_einstellungen](https://github.com/hshf1/VSCode/assets/125041387/47327c59-a0f0-4038-b82f-547d940ec8c3)
+
+Die settings.json bzw. tasks.json kann mit einem Klick auf `<... überprüfen>` auf fehlende Konfigurationen überprüft werden. Sobald die Überprüfung abgeschlossen und die Anpassungen ergänzt wurden gibt das Addon eine Erfolgsmeldung aus.
+
+Ihr könnt auch eure aktuelle settings.json bzw. tasks.json zurück setzen in dem ihr auf `< .... zurücksetzen>` klickt. Dies überschreibt die aktuelle Konfiguration mit einer gängigen Konfiguration. Diese Option bietet sich an, wenn die aktuelle Konfiguration zu umfangreich ist, sodass gewisse Einstellungen zu Komplikationen führen können.
+
+Mit einem Klick auf `<aktuelle settings.json öffnen>` bzw. `<aktuelle tasks.json öffnen` könnt ihr die gewünschte json-Datei öffnen um auch eigene Konfigurationen händisch vornehmen zu können.
+
+Wenn ihr aus Gründen zu einem älteren Stand der settings.json zurück kehren wollt oder sucht dort nur nach einer bestimmten Einstellung, dann kann die alte settings.json mit einem Klick auf `<alte settings.json öffnen>` aufgerufen werden.
+
+`<Problem melden>`: Ein Klick auf den Button öffnet das Dialogformular, mit dem ihr auftretende Fehler bzw Schwierigkeiten an die Autoren des AddOns melden könnt. Das genaue Vorgehen Anhand einer Beispielmeldung könnt ihr weiter unten nachlesen.
+
+<details>
+<summary>Ein Problem mit dem Addon melden</summary>
+Der nachfolgende Abschnitt behandelt das Formular mit dem ihr ein auftrendes Problem des HsH-Addons melden könnt. Um das Formular zu öffnen, klickt einfach das das HsH-Logo in eurer Activity Bar und wählt dann den letzten Punkt `<Problem melden>` aus.  Als erstes werdet ihr aufgefordert eure Hochschul-Mailadresse einzugeben, hierzu vervollständigt ihr einfach eure Adresse in dem vorgegebenen Feld.
+
+![01_report_formular](https://github.com/hshf1/VSCode/assets/125041387/313b28d1-5bfa-4c8a-bcc6-cfe9d846abd4)
+
+Nach dem Abschicken des Problems erhaltet ihr eine Kopie der Meldung an eure E-Mail-Adresse. Sie ist außerdem hilfreich, um euch bei eventuellen Rückfragen oder individuellen Lösungesansätzen bezüglich eures Problems zu kontaktieren.
+
+Habt ihr die Eingabe eurer E-Mail-Adresse mit einem Druck auf die Enter-Taste bestätigt, werdet ihr im zweiten Schritt dazu aufgefordert, euer Problem zu erläutern.
+
+![02_report_formular](https://github.com/hshf1/VSCode/assets/125041387/8fa7d5e7-702b-43c0-b590-c76b4b70ee15)
+
+Hier beschreibt ihr kurz den Zusammenhang eures Problems. Wenn ihr fertig seid, drückt ihr erneut auf "Enter". Im dritten Schritt könnt der Anfertigung eines Screenshots zustimmen, oder ablehnen.
+
+![03_report_problem](https://github.com/hshf1/VSCode/assets/125041387/f57b01f5-c8b1-46a2-8304-2b434ecdee41)
+
+Hierfür klickt ihr entweder auf "Ja" oder "Nein". Bei einem Klick auf "Ja" wird automatisch ein Screenshot von eurem aktuellen Bildschirm angefertigt, sodass ein späteres Nachvollziehen des aufgetretenden Problems leichter nachvollziehbar wird.
+
+Im vierten Schritt werdet ihr gefragt ob ihre eure momentan geöffnete Datei an die Problemmeldung anhängen möchtet. Eine Kopie der Datei, die im Zusammenhang mit eurem Problem hängt, kann eine Lösung des Problems deutlicher spezifizieren. Möchtet ihr die Datei anhängen, dann bestätgit es mit einem Klick auf "Ja" oder lehnt mit "Nein" ab.
+
+![04_report_formular](https://github.com/hshf1/VSCode/assets/125041387/9fbc9a4b-2c3a-41ba-9cbc-2d79e4d20a2b)
+
+Euere Meldung sollte nun vorbereitet sein, so dass ihr zum Schluss noch gefragt werdet, ob sie absenden wollt. "Klickt hier auf "Ja" um euer Problem zu melden oder auf "Nein" um den Vorgang abzubrechen
+
+![05_report_formular](https://github.com/hshf1/VSCode/assets/125041387/479e131e-e30a-4532-aab5-d05904139cee)
+
+Ihr könnt auch in jedem Schritt des Formulars den Vorgang abbrechen, in dem ihr auf die "ESC"-Taste drückt.
+</details>
+
+</details>
+
 ## Live Share
   
 Live Share ist eine optionale Erweiterung für euch. Ihr könnt damit zusammen mit anderen Studenten, die VSCode und diese Erweiterung installiert haben, zusammen programmieren. Eine Begrenzung der Anzahl gleichzeitiger Teilnehmer ist nicht bekannt und ihr könnt euch so gegenseitig auch bei schwierigen Aufgaben helfen und die Aufgabe aufteilen bzw. jeder seinen eigenen Losungsweg präsentieren. Auch wird euch euer Prof. damit bei der Vorlesung einladen, ihn beim coden direkt über VSCode mitzuverfolgen bzw. ihr könnt Vorschläge und Programmieransätze so direkt mit dem Prof. teilen.
@@ -505,7 +580,7 @@ Eine genauere Anleitung zum Debuggen findet ihr weiter unten.
 
  <img width="421" alt="image" src="https://user-images.githubusercontent.com/78163337/111458047-44045980-8719-11eb-8bdf-54a3d9e8febd.png">  
   
-Wir gehen zuerst auf die Datei HelloWorld.c und starten das Programm, indem wir oben rechts auf Play drücken oder ein rechtsklick im Code machen und Run Code wählen.
+Wir gehen zuerst auf die Datei HelloWorld.c und starten das Programm, indem wir oben rechts auf Play drücken oder einen Rechtsklick im Code machen und Run Code wählen.
 
 ![image](https://user-images.githubusercontent.com/78163337/112048960-41f22e80-8b4f-11eb-9cb2-14f6c10ee3bd.png)
   
