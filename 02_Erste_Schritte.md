@@ -82,7 +82,7 @@ Wenn das HSH_Addon4VSC erfolgreich installiert wurde, dann findet ihr in der Act
 
 Jetzt beschäftigen wir uns kurz mit den Funktionalitäten des Addons. Hierfür klickt ihr einmal auf das HsH-Icon in der Acitivity Bar. Darauf hin solltet ihr im Explorer folgende Menüpunkte finden:
 
-(04_addon_settings.png)
+![04_addon_settings](https://github.com/hshf1/VSCode/assets/125041387/c10f6e56-697b-4d0b-96c9-1f3e93e1f1cb)
 
 `<GitHub: VSCode (HsH-Repository)>`: Ein Klick auf den Button öffnet das GitHub-Repository in dem man die Installationsanleitung, die ersten Schritte und Fehlerbehebungen findet.
 
