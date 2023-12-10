@@ -82,13 +82,11 @@ Wenn das HSH_Addon4VSC erfolgreich installiert wurde, dann findet ihr in der Act
 
 Jetzt beschäftigen wir uns kurz mit den Funktionalitäten des Addons. Hierfür klickt ihr einmal auf das HsH-Icon in der Acitivity Bar. Darauf hin solltet ihr im Explorer folgende Menüpunkte finden:
 
-![image](https://github.com/hshf1/VSCode/assets/125041387/e4d5f1a3-c618-46f8-8bd2-41cc13160040)
+(04_addon_settings.png)
 
 `<GitHub: VSCode (HsH-Repository)>`: Ein Klick auf den Button öffnet das GitHub-Repository in dem man die Installationsanleitung, die ersten Schritte und Fehlerbehebungen findet.
 
 `<GitHub: Vorlesung C (HsH-Repository)>`: Ein Klick auf den Button öffnet das GitHub-Repository der Vorlesung in C-Programmierung, in dem ihr nützliche Informationen zur Vorlesung findet.
-
-`<Programmiersprache ändern>`: Ein Klick auf den Button ermöglicht das Wechseln der Programmiersprache. Momentan könnt das Addon für die Programmiersprachen C, Java und Linux verwenden. Vorsicht: beim Wechseln der Sprache wird ein entsprechendes Verzeichnis für gewählte Sprache geöffnet. Ihr legt eure Übungsaufgaben also nach gewählter Programmiersprache ab.
 
 `<In Verzeichnis der geöffneten Datei wechseln>`: Diese Option bietet sich an, wenn ihr gerade nur eine Datei geöffnet habt, z.B. main.c. Mit einem Klick auf diesen Button öffnet ihr das Verzeichnis, in dem eure Datei liegt als Projekt-Ordner in VS Code.
 
@@ -96,7 +94,7 @@ Jetzt beschäftigen wir uns kurz mit den Funktionalitäten des Addons. Hierfür 
 
 ![05_compiler_settings](https://github.com/hshf1/VSCode/assets/125041387/227fca23-57c7-4f01-8ec9-8857c1312f2d)
 
-Mit einem Klick auf `<C-Compiler prüfen / installieren>`, `<Java-Compiler prüfen / installieren>` oder `<Python-Compiler prüfen / installieren>` überprüft ihr eure aktuelle Compiler-Konfiguration, wenn keine gefunden wird, dann wird ein Compiler für die ausgewählte Programmiersprache automatisch installiert, so dass ihr gleich los legen könnt.
+Mit einem Klick auf `<C-Compiler prüfen / installieren>`, `<Java-Compiler prüfen / installieren>` oder `<Python-Compiler prüfen / installieren>` in den jeweiligen Menü-Unterpunktten C-Compiler, Java-Compiler oder Python-Compiler überprüft ihr eure aktuelle Compiler-Konfiguration, wenn keine gefunden wird, dann wird ein Compiler für die ausgewählte Programmiersprache automatisch installiert, so dass ihr gleich los legen könnt.
 
 Ihr könnt die entsprechenden Compiler mit einem Klick auf `< ... deinstallieren>` könnt ihr euren Compiler für die gewünschte Sprache auch deinstallieren. Das bietet sich z.B. an, wenn der Compiler neu installiert werden soll.
 
@@ -111,6 +109,10 @@ Ihr könnt auch eure aktuelle settings.json bzw. tasks.json zurück setzen in de
 Mit einem Klick auf `<aktuelle settings.json öffnen>` bzw. `<aktuelle tasks.json öffnen` könnt ihr die gewünschte json-Datei öffnen um auch eigene Konfigurationen händisch vornehmen zu können.
 
 Wenn ihr aus Gründen zu einem älteren Stand der settings.json zurück kehren wollt oder sucht dort nur nach einer bestimmten Einstellung, dann kann die alte settings.json mit einem Klick auf `<alte settings.json öffnen>` aufgerufen werden.
+
+Auch die tasks.json kann mit einem Klick auf `<tasks.json zurücksetzen>` zurück gesetzt werden. Wollt ihr selbst eure tasks.json bearbeiten, dann könnt ihr sie öffnen in dem ihr auf `<aktuelle tasks.json öffnen>` klickt.
+
+`<LogFile öffnen>`: Öffnet eine Log-Datei, in der das Verhalten des HsH-Addons dokumentiert wird. Hier wird euch mit geteilt, ob alles einwanfrei läuft oder etwaige Fehler im Ablaufverhalten des Addons auftreten.
 
 `<Problem melden>`: Ein Klick auf den Button öffnet das Dialogformular, mit dem ihr auftretende Fehler bzw Schwierigkeiten an die Autoren des AddOns melden könnt. Das genaue Vorgehen Anhand einer Beispielmeldung könnt ihr weiter unten nachlesen.
 
